@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basirul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="basirul-islam" /> </p>
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
-
 I’m Md Bashirul Islam, currently working on as an Associate Software Engineer at [Cefalo Bangladesh Ltd.](https://www.cefalo.com). I am a Full-Stack developer and always like to do something innovative. Find out more about me & feel free to connect with me here:
 
 <p align="left">
 <a href="https://linkedin.com/in/bashirul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bashirul islam" height="30" width="40" /></a>
+<a href="bsse1022@iit.du.ac.bd" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bashirul islam" height="40" width="40" /></a>
 <a href="https://fb.com/bashirul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bashirul islam" height="30" width="40" /></a>
 </p>
 
